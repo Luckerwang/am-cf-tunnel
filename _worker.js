@@ -37,9 +37,7 @@ let ipUrlCsv = [
 // Preferred addresses with optional TLS subscription
 let ipLocal = [
 	'visa.cn:443#ok',
-	'icook.hk#ok',
-	'time.is:443#ok'
-];
+	];
 let noTLS = 'false';
 let sl = 5;
 
